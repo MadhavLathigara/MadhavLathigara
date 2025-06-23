@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavlathigara&label=Profile%20views&color=0e75b6&style=flat" alt="madhavlathigara" /> </p>
 
-📫 Feel free to connect or reach out - I’m always open to conversations, feedback, or just nerding out about cool tech.**lathigara.madhav@gmail.com**
+📫 Feel free to connect or reach out - I’m always open to conversations, feedback, or just nerding out about cool tech. **lathigara.madhav@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
