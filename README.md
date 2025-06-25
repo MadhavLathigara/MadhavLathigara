@@ -3,7 +3,6 @@
 <h3 align="center">💞️ Open to long-term collaborations and meaningful projects.</h3>
 <h3 align="center">💬 I believe learning is best when shared. I enjoy creating small projects, writing about my discoveries, and connecting with like-minded developers.Whether it's open-source contributions or collaborative builds, I'm always up for something that challenges me.</h3>
 
-📫 Feel free to connect or reach out - I’m always open to conversations, feedback, or just nerding out about cool tech. **lathigara.madhav@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavlathigara&label=Profile%20views&color=0e75b6&style=flat" alt="madhavlathigara" /> </p>
 
@@ -11,6 +10,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/madhav-lathigara-link/" target="_parent"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/madhav-lathigara-link/" height="30" width="40" /></a>
 </p>
+📫 Feel free to connect or reach out - I’m always open to conversations, feedback, or just nerding out about cool tech. **lathigara.madhav@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href=" " rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
