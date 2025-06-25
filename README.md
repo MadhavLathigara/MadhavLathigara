@@ -10,6 +10,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/madhav-lathigara-link/" target="_parent"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/madhav-lathigara-link/" height="30" width="40" /></a>
 </p>
+
 📫 Feel free to connect or reach out - I’m always open to conversations, feedback, or just nerding out about cool tech. **lathigara.madhav@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
