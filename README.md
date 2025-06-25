@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavlathigara&label=Profile%20views&color=0e75b6&style=flat" alt="madhavlathigara" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me and check out my work:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/madhav-lathigara-link/" target="_parent"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/madhav-lathigara-link/" height="30" width="40" /></a>
 </p>
